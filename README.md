@@ -25,19 +25,3 @@
 - **Build Tool:** Maven or Gradle  
 
 ---
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-- Java 17+  
-- Maven or Gradle  
-- MySQL  
-- IDE (IntelliJ, Eclipse, etc.)
-
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/RamyaDeveloper1/BookApp.git
-   cd BookApp
